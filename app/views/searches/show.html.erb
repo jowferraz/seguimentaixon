@@ -1,0 +1,37 @@
+<div class="page-header">
+  <%= link_to new_search_path, class: 'btn btn-default' do %>
+    <span class="glyphicon glyphicon-list-alt"></span>
+    Back
+  <% end %>
+  
+  <h1>Show search</h1>
+<h2>
+<% if @search.search_contacts.empty? %>
+<p>No Records Found</p>
+<% else %>
+<% @search.search_contacts.each do |c| %>
+</h2>
+
+</div>
+
+
+
+<dl class="dl-horizontal">
+  <dt>Nome:</dt>
+  <dd><%= c.nome %></dd>
+
+  <dt>Email:</dt>
+  <dd><%= c.email %></dd>
+
+  <dt>Estado:</dt>
+  <dd><%= c.estado %></dd>
+
+  <dt>Cargo:</dt>
+  <dd><%= c.cargo %></dd>
+
+  <dt>Idade:</dt>
+  <dd><%= c.idade %></dd>
+
+</dl>
+<% end %>
+<% end %>

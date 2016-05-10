@@ -1,0 +1,12 @@
+== README
+
+Seguimentaixon 
+  
+   Our system, are one complete system for you add your contacts and filter 
+   them, using any information that you remember at the moment.
+
+  Our system are free and open source, so you can use it and if you prefer you
+  can code on it to works how do you want.
+  
+  
+  Seguimentaixon S.A (do yourself with ROR).
