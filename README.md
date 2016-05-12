@@ -1,13 +1,15 @@
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
 
+Seguimentaixon
 
-Welcome to your Rails project on Cloud9 IDE!
+ Our system, are one complete system for you add your contacts and filter 
+ them, using any information that you remember at the moment.
+
+Our system are free and open source, so you can use it and if you prefer you
+can code on it to works how do you want.
+
+Seguimentaixon S.A (do yourself with ROR).
+
 
 To get started, just do the following:
 
@@ -15,7 +17,7 @@ To get started, just do the following:
 2. Preview your new app by clicking on the URL that appears in the Run panel below (https://seguimentaixon-jowferraz.c9users.io/).
 
 Happy coding!
-The Cloud9 IDE team
+
 
 
 ## Support & Documentation
